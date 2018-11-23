@@ -105,9 +105,6 @@ satisfied_today_teaching_responses = [
     "I am satisfied with the instructor's performance."
 ]
 
-
-# print(br)
-
 br[mappings["first_name"]] = fname
 br[mappings["last_name"]] = lname
 br[mappings["month"]] = str(datetime.now().month)
