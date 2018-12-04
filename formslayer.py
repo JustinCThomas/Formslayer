@@ -127,15 +127,3 @@ print(br)
 
 
 submit_form = br.submit()
-
-# info_to_submit = {
-# 'entry.1671884016': 'Man',
-# 'entry.388598124': 'Two',
-#
-#
-#
-# # '': ''
-# 'entry.350438882': 'The teaching was very good today.'
-# }
-
-# print(requests.post(form_url, info_to_submit))
