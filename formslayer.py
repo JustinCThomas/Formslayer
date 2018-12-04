@@ -38,8 +38,8 @@ mappings = {
     "explain2": "entry.350438882",
 }
 
-fname = "One"
-lname = "Test"
+fname = raw_input("Please enter your first name: ")
+lname = raw_input("Please enter your last name: ")
 
 
 proud_of_today_responses = [
